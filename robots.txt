@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elkhartplumbingco.com/sitemap.xml
